@@ -1,0 +1,15 @@
+Initializing Proto 2.4.7
+Searching for patch files...
+Finished searching for patch files.
+No kv found on disk, using kv from nand!
+Ready to connect to Xbox LIVE!
+Dashlaunch is not running! Custom blocking: Disabled
+[XuiCreateSceneEx] Loaded section://3A0BFC08,xam#notify.xur
+[XuiCreateSceneEx] Loaded signin1.xur
+[XuiCreateSceneEx] Loaded status.xur
+[XuiCreateSceneEx] Loaded SettingsTabSignedIn.xur
+[XuiCreateSceneEx] Loaded MiniMediaPlayer.xur
+[XuiCreateSceneEx] Loaded HomeTabSignedIn.xur
+[XuiCreateSceneEx] Loaded GamesTabSignedIn.xur
+[XuiCreateSceneEx] Loaded GuideMain.xur
+[XuiCreateSceneEx] Loaded file://PluginUI:/themes/Metro/res.xzp#hudbkgnd.xur
